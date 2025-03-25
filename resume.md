@@ -1,48 +1,38 @@
-<img style="float:right;border-radius:50%;width:70px;padding:6px" src="avatar-man.jpg" />
+# Guilherme Azevedo dos Santos
+**Software Engineer II | DevOps & SRE**
+Porto Alegre, Rio Grande do Sul, Brazil | +55 51 982382523 | gui_t900@hotmail.com
+[LinkedIn](www.linkedin.com/in/g-asantos) | [GitHub](github.com/g-asantos)
 
-<span style="float:right;padding:6px"> 
-  someone@email.com <br> mobile: +852 xxxxxxxx <br> Nationality: Chinese
-</span>
+## Professional Summary
+Experienced Software Engineer II at Dell Technologies, specializing in Site Reliability Engineering (SRE) for Enterprise Financial Systems. Combines software development expertise with DevOps practices and a unique background in law. Proficient in CI/CD, cloud technologies, and security optimization.
 
-# Casualwriter  
+## Skills
+- DevOps Tools: GitLab CI/CD, Ansible, Prometheus, Grafana
+- Cloud Platforms: Pivotal Cloud Foundry (PCF)
+- Security Tools: HashiCorp Vault, Checkmarx, Snyk, SonarQube
+- Languages: English (Full Professional)
 
-## Executive Summary
+## Professional Experience
 
-* 10 years project/team management experience
-* PMP, OCP, AWS Certification
-* Hand-on experience in oracle database
-* Proficient in JavaScript, Java, Powerbuilder
+### Dell Technologies | Software Engineer II
+**February 2025 - Present**
+- Achieved 95% CI/CD maturity across 3 applications
+- Reduced operational toil by over 50%
+- Managed release deployments with blue-green strategies
+- Implemented security scans improving code quality and compliance
+- Optimized GitLab CI/CD pipelines and managed production incidents
 
-## Working Experience
+### Previous Roles
+**QRPOINT | Developer Jr (June 2021 - July 2022)**
+- Developed full-stack HR frequency control system
+- Created web and mobile components to enhance HR operational efficiency
 
-#### Current Company (Project Manager, 2015/08 - present) 
+## Education
+**Pontifícia Universidade Católica do Rio Grande do Sul**
+- Bachelor in Software Engineering (August 2021 - August 2026)
+- Bachelor in Law (2012 - 2016)
 
-* Lead team of 10 to oversee conception, requirement gathering, documentation and rollout.
-* Conduct troubleshooting, analysis and support. Gather user feedback, document bugs and change requests.
-
-#### Second Company (System Analyst, 2011/06 - 2015/07) 
-
-* Led team of 5 for application development
-* Coordinated with developers, support staff and vendors across Hong Kong, China, Taiwan
-
-#### My first Company (Analyst Programmer, 2005/01 - 2011/05)
-
-* Develop multiple applications using Javascript, Java, PHP, Powerbuilder, Oracle
-
-## Projects: 
-
-* [Casual-Markdown](https://github.com/casualwriter/powerpage) - a lightweight markdown parser
-* [Powerpage](https://github.com/casualwriter/powerpage) - a lightweight browser for html applications
-
-## Education & Qualifications
-
-* AWS Certification (2021/12)
-* Oracle Certified Professional (2020/02)
-* Project Management Professional (PMP) (2018/10)
-* Bachelor of Computer Science (Sep 2004)
-* The Chinese University of Hong Kong (2000 - 2004)
-
-## Misc. Information
-
-* Languages: English (good), Cantonese (fluent/native), Mandarin (good)
-* Availability: 1 month's notice
+## Certifications
+- Information and Communication Technologies (IT/Legal)
+- Intellectual Property
+- Data Protection Officer (DPO) Certification
